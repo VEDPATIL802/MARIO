@@ -1,0 +1,120 @@
+.heading {
+    width: 100%;
+    text-align: left;
+    box-shadow: 5px 5px 5px gold;
+
+}
+
+.heading:hover {
+    width: 100%;
+    text-align: left;
+    box-shadow: 5px 5px 5px slateblue;
+
+}
+
+.heading h3 {
+    display: inline;
+    color: darkblue;
+    background-color: darkgoldenrod;
+    box-shadow: 5px 5px 5px yellow;
+}
+
+.heading h3:hover {
+    display: inline;
+    color: goldenrod;
+    background-color: red;
+    box-shadow: 5px 5px 5px fuchsia;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid tomato;
+    color: yellow;
+    background-color: violet;
+    box-shadow: 5px 5px 5px royalblue;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.heading button:hover {
+    float: right;
+    border: 1px solid firebrick;
+    color: hotpink;
+    background-color: lawngreen;
+    box-shadow: 5px 5px 5px gold;
+    font-size: 21px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.big_image {
+    width: 100%;
+}
+
+#start {
+    box-shadow: 5px 5px 5px indigo;
+    color: lawngreen;
+    background-color: magenta;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#start:hover {
+    box-shadow: 5px 5px 5px red;
+    color: gold;
+    background-color: purple;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#status {
+    box-shadow: 5px 5px 5px fuchsia;
+    color: greenyellow;
+    background-color: indigo;
+    font-size: 21px;
+}
+
+#status:hover {
+    box-shadow: lightcoral;
+    color: mediumblue;
+    background-color: mediumpurple;
+    font-size: 22px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+h4 {
+    color: darkviolet;
+    line-height: 2;
+    margin: 0px;
+    background-color: deepskyblue;
+    box-shadow: -5px -5px -5px violet;
+}
+
+h4:hover {
+    color: dodgerblue;
+    line-height: 2;
+    margin: 0px;
+    background-color: fuchsia;
+    box-shadow: -5px -5px -5px springgreen;
+}
+
+.modal-dialog {
+    width: 90%;
+    box-shadow: 5px 5px 5px firebrick;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+    box-shadow: 5px 5px 5px indigo;
+}
